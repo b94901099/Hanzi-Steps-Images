@@ -38,8 +38,8 @@ Copyright © 2025 SHENG-LUN CHEN. All rights reserved.
 stories/
 └── pangu/
     ├── img_story_pangu_cover.png # Story cover image
-    ├── img_story_pangu_01.png # Sentence 1 illustration
-    ├── img_story_pangu_02.png # Sentence 2 illustration
+    ├── img_story_pangu_01.png 
+    ├── img_story_pangu_02.png 
 
 ## Technical Details
 
